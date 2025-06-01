@@ -1,5 +1,9 @@
 function Home() {
-  return <h1>Bom dia meu amor!! Eu te amo demais!! </h1>;
+  return (
+    <h1>
+      As vezes encontramos nosso destino no caminho que tomamos para evitalo.
+    </h1>
+  );
 }
 
 export default Home;
